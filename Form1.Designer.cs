@@ -2,6 +2,7 @@
 {
     partial class Form1
     {
+        //Sua code
         /// <summary>
         /// Required designer variable.
         /// </summary>
