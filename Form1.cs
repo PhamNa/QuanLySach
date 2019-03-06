@@ -16,6 +16,7 @@ namespace Demo
             InitializeComponent();
         }
         private void btnCong_Click(object sender, EventArgs e)
+
         {
             ///sua code
             if (txtA.Text != String.Empty && txtB.Text != String.Empty)
@@ -29,5 +30,7 @@ namespace Demo
             }
 
         }
+
+     //Sua code2
     }
 }
