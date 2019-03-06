@@ -17,7 +17,7 @@ namespace Demo
         }
         private void btnCong_Click(object sender, EventArgs e)
         {
-
+            ///sua code
             if (txtA.Text != String.Empty && txtB.Text != String.Empty)
             {
 
